@@ -9,4 +9,4 @@ redirect_from:
 ---
 I'm an undergraduate student at the University of Michigan and a member of the CROMA Lab focusing on HCI and AI research.
 
-I'm currently working on utilizing crowdsourcing to create more comprehensive task-dialog systems.
+I'm currently working on utilizing crowdsourcing to create more comprehensive task-oriented dialog systems.
