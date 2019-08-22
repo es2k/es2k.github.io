@@ -11,7 +11,7 @@ I'm an undergraduate student at the University of Michigan and a member of the C
 
 Current Projects:
 
-GAN - cycle consistency
-Emotion Recognition - smart eyewear devices
-User Anomaly Detection - deep learning model for Android permissions control
+GAN - cycle consistency\
+Emotion Recognition - smart eyewear devices\
+User Anomaly Detection - deep learning model for Android permissions control\
 2D to 3D Video Conversion - crowdsourced aggregate particle filtering for autonomous vehicle training
