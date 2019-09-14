@@ -10,8 +10,10 @@ redirect_from:
 {% include base_path %}
 [Resume](../assets/cv/Resume.pdf)
 
-Education
+University of Michigan
 ======
-* B.S.E. in Computer Science, University of Michigan, 2021 (expected)
-	* GPA: 4.0
+*	B.S.E. in Computer Science and Math Minor (2021)
+*	GPA: 4.0
+*	EECS 442 Computer Vision
+*	EECS 445 Machine Learning 
 
