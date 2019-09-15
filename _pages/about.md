@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an undergraduate student at the University of Michigan and a member of the CROMA Lab and the State Key Laboratory of Novel Software Technology at NJU focusing on deep learning research.
+I'm a student at the University of Michigan the and member of the Artificial Intelligence Lab at University of Michigan and the State Key Laboratory of Novel Software Technology at Nanjing University focusing on deep learning research.
 
 Current Projects:
 
