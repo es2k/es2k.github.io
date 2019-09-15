@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume](../assets/cv/Resume.pdf)
+<span style="color:blue">[Resume](../assets/cv/Resume.pdf)</span>
 
-University of Michigan
+University of Michigan, Ann Arbor
 ======
 *	B.S.E. in Computer Science and Math Minor (2021)
-*	GPA: 4.0
+*	GPA: 4.00/4
 *	EECS 442 Computer Vision
 *	EECS 445 Machine Learning 
 
