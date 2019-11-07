@@ -11,6 +11,10 @@ I'm a student at the University of Michigan the and member of the Artificial Int
 
 Current Projects:
 
+*	Reinforcement Learning - Modeling human learning reward functions for efficient DQN training
+
+Past Projects:
+
 *	GAN - cycle consistent steganography in security  
 *	Emotion Recognition - fast and accurate on smart eyewear devices  
 *	User Anomaly Detection - deep learning model for Android permissions control  
