@@ -12,6 +12,8 @@ I'm a student at the University of Michigan the and member of the Artificial Int
 Current Projects:
 
 *	Reinforcement Learning - Modeling human learning reward functions for efficient DQN training
+*	Natural Language Processing - Automatic slideshow generation through state-of-the-art encoder decoder models
+*	Computer Vision in Medicine - 3D Prostate Cancer Lesion Detection
 
 Past Projects:
 
