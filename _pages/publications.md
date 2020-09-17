@@ -4,7 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<a href="{{author.googlescholar}}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<a href="{{author.googlescholar}}"><i class="ai ai-google-scholar-square ai-fw"></i> <span style="color:blue">Google Scholar</span></a>
 
 
 ## Conference and Journal Papers
