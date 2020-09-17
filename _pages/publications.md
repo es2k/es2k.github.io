@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<a href="{{author.googlescholar}}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
+
 
 ## Conference and Journal Papers
 Works in progress
