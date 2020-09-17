@@ -9,11 +9,20 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<a href="{{author.googlescholar}}"><i class="ai ai-google-scholar-square ai-fw"></i> <span style="color:blue">Google Scholar</span></a>
+{% if author.googlescholar %}
+  <i class="ai ai-google-scholar-square ai-fw"></i> You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
+## Works in Progress
+*	**Document to Slide: Automatic Slideshow Generation**  
+	IBM Research
+*	**3D Prostate Cancer Lesion Detection**  
+	Michigan Medicine
 
 ## Conference and Journal Papers
-Works in progress
+*	**EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices**  
+	Hao Wu, Jinghao Feng, Xuejin Tian, **Edward Sun**, Yunxin Liu, Bo Dong, Fengyuan Xu, Sheng Zhong  
+	In *Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services* (MobiSys 2020).
 *	**Broken Relationship of Mobile User Intentions and Permission Control of Shared System Resources**<br/>
 	Hao Wu, Zheng Qin, Xuejin Tian, **Edward Sun**, Fengyuan Xu, Sheng Zhong<br/>
 	In *IEEE Conference on Dependable and Secure Computing* (DSC 2019).
@@ -24,9 +33,5 @@ Works in progress
 	In *Proceedings of the ACM Symposium on User Interface Software and Technology* (UIST 2019).<br/>
 	<!--<span style="color:blue">[Paper](../files/corsica_UIST2019-poster.pdf)</span>-->
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
